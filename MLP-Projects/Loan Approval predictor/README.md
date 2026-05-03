@@ -36,7 +36,7 @@ Optimizer: Adam
 ---
 
 ## 📂 Project Structure
-
+```
 Loan Approval predictor/
 │
 ├── data/
@@ -55,13 +55,15 @@ Loan Approval predictor/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-
+```
 ---
 
 ## ⚙️ Installation
 
-```bash
-git clone <your-repo-link>
-cd Loan Approval predictor
+### 1. Clone the repository
 
+```bash
+git clone git clone https://github.com/nigamdasmygoal003-sketch/Real-world-DL-projects.git
+cd Real-world-DL-projects
 pip install -r requirements.txt
+```
