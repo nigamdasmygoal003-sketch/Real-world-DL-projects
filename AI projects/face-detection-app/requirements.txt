@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+torch
+torchvision
+streamlit
+numpy
+datasets
+huggingface-hub
+streamlit-webrtc
+av

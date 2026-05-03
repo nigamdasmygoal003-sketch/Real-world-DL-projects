@@ -1,0 +1,18 @@
+# Ignore datasets
+data/
+datasets/
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Ignore outputs
+outputs/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
