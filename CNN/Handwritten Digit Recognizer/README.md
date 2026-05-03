@@ -74,9 +74,12 @@ Handwritten Digit Recognizer/
 
 ## ⚙️ Installation
 
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/your-username/mnist-digit-recognizer.git
-cd Handwritten Digit Recognizer
+git clone git clone https://github.com/nigamdasmygoal003-sketch/Real-world-DL-projects.git
+cd Real-world-DL-projects
+```
 
 pip install -r requirements.txt
 🏋️ Train Model
