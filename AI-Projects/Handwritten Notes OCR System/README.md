@@ -59,8 +59,8 @@ Handwritten Notes OCR System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/handwritten-notes-ocr.git
-cd Handwritten Notes OCR System
+git clone git clone https://github.com/nigamdasmygoal003-sketch/Real-world-DL-projects.git
+cd Real-world-DL-projects
 ```
 
 ---
