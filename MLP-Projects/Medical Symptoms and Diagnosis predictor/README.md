@@ -40,7 +40,7 @@ Input → Linear(128) → ReLU
 
 ## 📂 Project Structure
 
-
+```
 Medical Symptoms and Diagnosis predictor/
 │
 ├── data/
@@ -63,17 +63,18 @@ Medical Symptoms and Diagnosis predictor/
 ├── requirements.txt
 ├── README.md
 
-
+```
 ---
 
 ## ⚙️ Installation
 
+### 1. Clone the repository
+
 ```bash
-git clone <your-repo-link>
-cd Medical Symptoms and Diagnosis predictor
-
+git clone git clone https://github.com/nigamdasmygoal003-sketch/Real-world-DL-projects.git
+cd Real-world-DL-projects
 pip install -r requirements.txt
-
+```
 
 ▶️ Train the Model
 python src/train.py
