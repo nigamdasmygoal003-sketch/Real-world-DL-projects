@@ -42,6 +42,13 @@ data/
 
 Install dependencies and run:
 
+### 1. Clone the repository
+
+```bash
+git clone git clone https://github.com/nigamdasmygoal003-sketch/Real-world-DL-projects.git
+cd Real-world-DL-projects
+```
+
 ```powershell
 pip install -r requirements.txt
 python download_mask_dataset.py
