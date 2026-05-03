@@ -38,6 +38,7 @@ y = W₂ · ReLU(W₁x + b₁) + b₂
 ---
 
 ## 📂 Project Structure
+```
 mlp_from_scratch/
 │── model.py # MLP implementation
 │── train.py # Training script
@@ -49,16 +50,18 @@ mlp_from_scratch/
 │── columns.pkl # Feature alignment
 │── requirements.txt
 │── README.md
-
+```
 ---
 
 ## ⚙️ Installation
 
-```bash
-git clone <your-repo-link>
-cd mlp_from_scratch
+### 1. Clone the repository
 
+```bash
+git clone git clone https://github.com/nigamdasmygoal003-sketch/Real-world-DL-projects.git
+cd Real-world-DL-projects
 pip install -r requirements.txt
+```
 ▶️ Train the Model
 python train.py
 
